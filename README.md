@@ -5,11 +5,11 @@ Project One of dwa15
 
 ### URL
 
-[104.131.10.181/p1](http://104.131.10.181/p1)
+[p1.alexf.me](http://p1.alexf.me/)
 
 ###Project Desc
 
-This is project one ( p1). The goal of this project is to establish the workflow that will be used in future projects and to make sure that everything is functioning correctly. Current status of p1: Domain name alexf.me secured, but DNS not working. Listing the server IP address for URL in the meantime.
+This is project one ( p1). The goal of this project is to establish the workflow that will be used in future projects and to make sure that everything is functioning correctly. Slight hitches getting the domain name registered, waiting for the DNS to change, and adjusting the VirtualHost block, but everything is now working as hoped.
 
 ###Demo Info
 
